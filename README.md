@@ -8,13 +8,18 @@
 
 
 
+
+강의 슬라이드 링크와 세부사항으 다음과 같습니다.
+
+
+
 ##  10:00 ~ 11:30 
 
 ## 1. 작업자를 행복하게 하는 공장 프로젝트 
 
 #### 
 
-
+https://speakerdeck.com/wonseokjung/seumateupaegtori-peurojegteu
 
 <img src="https://www.dropbox.com/s/7wimvul3mizwzh2/Screenshot%202018-12-12%2021.09.53.png?raw=1">
 
@@ -48,7 +53,7 @@ Human interaction 관점에서의  "스마트팩토리"의 정의와 개선점�
 
 #### 2.강화학습 이론 및 실습 (고전 강화학습부터 최신 강화학습까지)
 
-
+https://speakerdeck.com/wonseokjung/reinforcement-learning-a2711ce7-83db-4c31-8ea3-ad5db0e1a9a9
 
 <img src="https://www.dropbox.com/s/b37fjjgd61k5056/Screenshot%202018-12-12%2021.10.14.png?raw=1">
 
